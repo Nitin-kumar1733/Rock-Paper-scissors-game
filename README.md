@@ -1,7 +1,7 @@
 # Rock-Paper-scissors-game
 
 ## About the Game
-It is use the Mainly javaScript.
+A website made using JavaScript and html it's aim to for entertain.
 In childhood we play this game with friends, By using this website we can play this game online 
 
 ## Setting Up
